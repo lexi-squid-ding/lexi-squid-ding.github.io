@@ -58,8 +58,7 @@ plugins:
 author:
   name   : "Alexandra Lexi Ding"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "ML Engineer at Block Inc (fka Square)
-    Ask me about the Bay Area, Python and Fintech!"
+  bio    : "ML Engineer at Cash App and long distance walking enthusiast"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
