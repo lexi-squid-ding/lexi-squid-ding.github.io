@@ -10,6 +10,8 @@ I graduated from Harvard College in 2017 and have 5 years of practical experienc
 
 I moved to NYC to wear many hats as a Field Product Data Scientist at **[Enigma Technologies](https://enigma.com/)**, a Series C startup (at the time), because I wanted a greater amount of product ownership, and dove into developing an ML-first product, including software development cycles and product iteration.
 
-My experiences in consulting and at a startup gave me the chance to work on a variety of different ML modeling techniques - deep learning, NLP, time series modeling - and instilled a **passion for using the {mathematically, technically, and ethically} best tools to help customers**. I joined Square (now known as Block Inc.) to work on interdisciplinary products at different stages of maturity and to hone my software engineering skills and become a more impactful ML practitioner. Nine times out of ten, the "secret sauce" that customers care about is not usually the most cutting-edge ML, but the product experience that the ML empowers.
+My experiences in consulting and at a startup gave me the chance to work on a variety of different ML modeling techniques - deep learning, NLP, time series modeling - and instilled a **passion for using the {mathematically, technically, and ethically} best tools to help customers**.
+
+I moved to the Bay Area and joined Square (now known as Block Inc.) to work on interdisciplinary products at different stages of maturity and to hone my software engineering skills and become a more impactful ML practitioner. Nine times out of ten, the "secret sauce" that customers care about is not usually the most cutting-edge ML, but the product experience that the ML empowers.
 
 Drop me a LinkedIn message if you want to chat about ML, the Bay Area, Python or hiking!
