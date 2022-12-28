@@ -6,7 +6,7 @@ title: "About"
 
 At **[Cash App](https://cash.app/)**, I am currently a **Staff Machine Learning Engineer** on a new platform team that enables credit and underwriting decisions for several financial products responsible for over 60% of Cash App's total revenue. My professional passion is **getting ML into production software so that it can enable better customer experiences**- whether through making personalized offers for financial products, or explaining the results of ML decisions in a digestible way.
 
-I graduated from Harvard College in 2017 and have 5 years of experience at the intersection of ML, Product and Software Engineering. My experience with ML began during my college research in computational neuroscience. In my first job in consulting for **[Booz Allen Hamilton](https://www.boozallen.com/)** in DC, I began applying ML to real-world problems at the Department of Transportation and US Air Force.
+I graduated from Harvard College in 2017 and have 5 years of practical experience at the intersection of ML, Product and Software Engineering. My first hands-on experience with ML was during my college research in computational neuroscience. In my first job in consulting for **[Booz Allen Hamilton](https://www.boozallen.com/)** in DC, I began applying ML to real-world problems at the Department of Transportation and US Air Force.
 
 I moved to NYC to wear many hats as a Field Product Data Scientist at **[Enigma Technologies](https://enigma.com/)**, a Series C startup (at the time), because I wanted a greater amount of product ownership, and dove into developing an ML-first product, including software development cycles and product iteration.
 
