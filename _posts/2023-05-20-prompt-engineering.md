@@ -11,7 +11,7 @@ tags:
 > GPT, Please write me a blog post summarizing my experience in the DeepLearning.AI short course, [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/courses/).
 The post must be less than 300 words and have a whimsical, personal tone while being instructive.
 
-**Disclaimer**: I wrote this blog post by hand with some help from Generative AI tools (GPT-3 via the OpenAI Python API). The sense of humor displayed wherein is both machine and human.
+**Disclaimer**: I wrote this blog post by hand with some help from Generative AI tools (GPT-3 via the OpenAI Python API). The sense of humor displayed herein is both machine and human.
 
 ## Asking the right question is half the answer: Tips for Prompt Engineering
 > "Isn't it just one endpoint that only takes in plain text?" - my SWE coworker
